@@ -1,5 +1,3 @@
-README.md
-
 # 🇮🇩 made in indonesia
 
 > Daftar project OSS (Open source Software - Perangkat lunak sumber terbuka) yang dibuat oleh orang indonesia. terinspirasi dari [made-in-ukraine](https://github.com/chernivtsijs/made-in-ukraine) - [Get Started](https://www.mikrodinet.eu.org/made/)
